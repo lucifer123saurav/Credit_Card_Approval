@@ -6,3 +6,5 @@ is he have car or not ,how many member in his family and his monthly income etc.
 
 I have create it in a good manner , I have explained everything in code and comment out what i have done in next line which gives you
 a better understanding.
+
+ 
